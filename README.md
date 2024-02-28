@@ -1,5 +1,6 @@
 # 1: Existing Members Campaign:
 email
+subject: ``` [user-name] Stay Cool This Summer with Your Complimentary Cooling System Check-Up! ```
 ```
 <div class="promo2402-1" style="font-size: 15px; font-family: Arial, sans-serif">
     <!--            Existing Members Campaign-->
@@ -75,6 +76,9 @@ content webpage
 
 # 2 Expired member campaign
 email
+subject: ``` [user-name] Welcome Back to Enhanced Comfort with Nevada Residential Services!
+ ```
+
 ```
 <div class="promo2402-1" style="font-size: 15px; font-family: Arial, sans-serif">
     <!--            Expired member campaign-->
@@ -152,6 +156,8 @@ webpage
 ```
 # #3: AC Repair Customers Campaign 1-9/10+
 email
+subject: ```[user-name] Get Ready for Summer with Nevada Residential Services! ```
+
 ```
 <div class="promo2402-1" style="font-size: 15px; font-family: Arial, sans-serif">
     <!--            AC Repair Customers Campaign 1-9/10+-->
@@ -221,6 +227,8 @@ webpage
 ```
 # 4: Maintenance Customers Campaign 1-9/10+
 email
+subject: ``` [user-name] Stay Ahead with Regular Maintenance: A Thank You from Nevada Residential Services10+ ```
+
 ```
 <div class="promo2402-1" style="font-size: 15px; font-family: Arial, sans-serif">
     <!--            Maintenance Customers Campaign 1-9/10+-->
@@ -301,6 +309,8 @@ webpage
 
 # 5: Installation Members
 email
+subject: ```  [user-name] Your Complimentary AC Tune-Up Awaits! ```
+
 ```
 <div class="promo2402-1" style="font-size: 15px; font-family: Arial, sans-serif">
     <!--            Installation Members-->
