@@ -3,7 +3,7 @@ email
 ```
 <div class="promo2402-1" style="font-size: 15px; font-family: Arial, sans-serif">
     <!--            Existing Members Campaign-->
-    <a href="https://nrs.vegas/?service=spring-ac-tuneup-emc"><img src="https://nrs.vegas/images/promo/free-tune-up.jpg" alt="free-tune-up" style="max-width: 1000px"></a>
+    <a href="https://nrs.vegas/?service=spring-ac-tuneup-emc#reqbooknow-form"><img src="https://nrs.vegas/images/promo/free-tune-up.jpg" alt="free-tune-up" style="max-width: 1000px"></a>
         <p>Stay Cool This Summer with Your Complimentary Cooling System Check-Up!</p>
     <p>Dear Valued Member,</p>
     <p>
@@ -34,7 +34,7 @@ email
     <p>
         P.S. Make the most of your membership benefits. Don't let this chance for a worry-free summer slip through your fingers!
     </p>
-    <a href="https://nrs.vegas/?service=spring-ac-tuneup-emc" style="color: #fff;font-size: 16px;cursor: pointer;padding: 10px 20px;font-family: 'Roboto';text-transform: uppercase;background-color: #006ecd;display: block;margin: 20px 0;max-width: 255px;text-align: center;text-decoration: none;font-weight: bold;">Schedule online</a>
+    <a href="https://nrs.vegas/?service=spring-ac-tuneup-emc#reqbooknow-form" style="color: #fff;font-size: 16px;cursor: pointer;padding: 10px 20px;font-family: 'Roboto';text-transform: uppercase;background-color: #006ecd;display: block;margin: 20px 0;max-width: 255px;text-align: center;text-decoration: none;font-weight: bold;">Schedule online</a>
 </div>
 
 ```
@@ -78,7 +78,7 @@ email
 ```
 <div class="promo2402-1" style="font-size: 15px; font-family: Arial, sans-serif">
     <!--            Expired member campaign-->
-    <a href="https://nrs.vegas/?service=spring-ac-tuneup-expmc"><img src="https://nrs.vegas/images/promo/free-tune-up2.jpg" style="max-width: 1000px" alt="free-tune-up"></a>
+    <a href="https://nrs.vegas/?service=spring-ac-tuneup-expmc#reqbooknow-form"><img src="https://nrs.vegas/images/promo/free-tune-up2.jpg" style="max-width: 1000px" alt="free-tune-up"></a>
     <p>
         Welcome Back to Enhanced Comfort with Nevada Residential Services!
     </p>
@@ -110,7 +110,7 @@ email
     </p>
     <p>P.S. Rejoining means not just getting services, but becoming part of the Nevada Residential Services family again. Let's prioritize your home's comfort together.
     </p>
-    <a href="https://nrs.vegas/?service=spring-ac-tuneup-expmc" style="color: #fff;font-size: 16px;cursor: pointer;padding: 10px 20px;text-transform: uppercase;background-color: #006ecd;display: block;margin: 20px 0;max-width: 255px;text-align: center;text-decoration: none;font-family: 'Roboto';font-weight: bold;">Schedule online</a>
+    <a href="https://nrs.vegas/?service=spring-ac-tuneup-expmc#reqbooknow-form" style="color: #fff;font-size: 16px;cursor: pointer;padding: 10px 20px;text-transform: uppercase;background-color: #006ecd;display: block;margin: 20px 0;max-width: 255px;text-align: center;text-decoration: none;font-family: 'Roboto';font-weight: bold;">Schedule online</a>
 
 </div>
 ```
@@ -155,7 +155,7 @@ email
 ```
 <div class="promo2402-1" style="font-size: 15px; font-family: Arial, sans-serif">
     <!--            AC Repair Customers Campaign 1-9/10+-->
-    <a href="https://nrs.vegas/?service=spring-ac-repair"><img src="https://nrs.vegas/images/promo/free-tune-up.jpg" style="max-width: 1000px" alt="free-tune-up"></a>
+    <a href="https://nrs.vegas/?service=spring-ac-repair#reqbooknow-form"><img src="https://nrs.vegas/images/promo/free-tune-up.jpg" style="max-width: 1000px" alt="free-tune-up"></a>
     <p>Get Ready for Summer with Nevada Residential Services!
     </p>
     <p>Dear Valued Customer,
@@ -183,7 +183,7 @@ email
     <p>Nevada Residential Services Team
     </p>
     <p>P.S. Don't wait for the heatwave—book your maintenance check now for a seamless summer experience.</p>
-    <a href="https://nrs.vegas/?service=spring-ac-repair" style="color: #fff;font-size: 16px;font-weight: bold;cursor: pointer;padding: 10px 20px;text-transform: uppercase;background-color: #006ecd;font-family: 'Roboto';display: block;margin: 20px 0;max-width: 255px;text-align: center;text-decoration: none;">Schedule online</a>
+    <a href="https://nrs.vegas/?service=spring-ac-repair#reqbooknow-form" style="color: #fff;font-size: 16px;font-weight: bold;cursor: pointer;padding: 10px 20px;text-transform: uppercase;background-color: #006ecd;font-family: 'Roboto';display: block;margin: 20px 0;max-width: 255px;text-align: center;text-decoration: none;">Schedule online</a>
 </div>
 
 ```
@@ -224,7 +224,7 @@ email
 ```
 <div class="promo2402-1" style="font-size: 15px; font-family: Arial, sans-serif">
     <!--            Maintenance Customers Campaign 1-9/10+-->
-    <a href="https://nrs.vegas/?service=spring-ac-maintenance"><img src="/images/promo/free-tune-up.jpg" style="max-width: 1000px" alt="free-tune-up"></a>
+    <a href="https://nrs.vegas/?service=spring-ac-maintenance#reqbooknow-form"><img src="/images/promo/free-tune-up.jpg" style="max-width: 1000px" alt="free-tune-up"></a>
     <p>Stay Ahead with Regular Maintenance: A Thank You from Nevada Residential Services
     </p>
     <p>Dear Valued Customer,
@@ -257,7 +257,7 @@ email
     </p>
     <p>P.S. Remember, regular maintenance is the most effective way to ensure your HVAC system remains at peak performance. Book your next service today and enjoy a worry-free summer.
     </p>
-    <a href="https://nrs.vegas/?service=spring-ac-maintenance" style="color: #fff;font-size: 16px;cursor: pointer;font-weight: bold;padding: 10px 20px;text-transform: uppercase;background-color: #006ecd;font-family: 'Roboto';display: block;margin: 20px 0;max-width: 255px;text-align: center;text-decoration: none;">Schedule online</a>
+    <a href="https://nrs.vegas/?service=spring-ac-maintenance#reqbooknow-form" style="color: #fff;font-size: 16px;cursor: pointer;font-weight: bold;padding: 10px 20px;text-transform: uppercase;background-color: #006ecd;font-family: 'Roboto';display: block;margin: 20px 0;max-width: 255px;text-align: center;text-decoration: none;">Schedule online</a>
 
 </div>
 ```
@@ -304,7 +304,7 @@ email
 ```
 <div class="promo2402-1" style="font-size: 15px; font-family: Arial, sans-serif">
     <!--            Installation Members-->
-    <a href="https://nrs.vegas/?service=spring-ac-installation"><img src="https://nrs.vegas/images/promo/free-tune-up4.jpg" style="max-width: 1000px" alt="free-tune-up"></a>
+    <a href="https://nrs.vegas/?service=spring-ac-installation#reqbooknow-form"><img src="https://nrs.vegas/images/promo/free-tune-up4.jpg" style="max-width: 1000px" alt="free-tune-up"></a>
    <p>Dear Customer</p>
     <p>We hope you're loving the comfort your new HVAC system from Nevada Residential Services brings. It's time for your complimentary AC maintenance visit, a token of our appreciation for choosing us.
     </p>
@@ -325,7 +325,7 @@ email
     <p>Thank you for trusting Nevada Residential Services. Let's keep your HVAC in top shape together.
     </p>
     <p>P.S. Regular maintenance is key to a lasting, efficient HVAC system. Schedule your visit today!</p>
-    <a href="https://nrs.vegas/?service=spring-ac-installation" style="color: #fff;font-size: 16px;cursor: pointer;font-weight: bold;padding: 10px 20px;text-transform: uppercase;background-color: #006ecd;font-family: 'Roboto';display: block;margin: 20px 0;max-width: 255px;text-align: center;text-decoration: none;">Schedule online</a>
+    <a href="https://nrs.vegas/?service=spring-ac-installation#reqbooknow-form" style="color: #fff;font-size: 16px;cursor: pointer;font-weight: bold;padding: 10px 20px;text-transform: uppercase;background-color: #006ecd;font-family: 'Roboto';display: block;margin: 20px 0;max-width: 255px;text-align: center;text-decoration: none;">Schedule online</a>
 
 </div>
 
