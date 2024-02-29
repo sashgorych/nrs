@@ -76,8 +76,7 @@ content webpage
 
 # 2 Expired member campaign
 email
-subject: ``` [user-name] Welcome Back to Enhanced Comfort with Nevada Residential Services!
- ```
+subject: ``` [user-name] Welcome Back to Enhanced Comfort with Nevada Residential Services!```
 
 ```
 <div class="promo2402-1" style="font-size: 15px; font-family: Arial, sans-serif">
@@ -119,8 +118,7 @@ subject: ``` [user-name] Welcome Back to Enhanced Comfort with Nevada Residentia
 </div>
 ```
 webpage
-```
-<!--            Expired member campaign-->
+```<!--            Expired member campaign-->
             <img src="/images/promo/free-tune-up2.jpg" alt="free-tune-up">
         <p>
             Welcome Back to Enhanced Comfort with Nevada Residential Services!
@@ -154,7 +152,7 @@ webpage
             <p>P.S. Rejoining means not just getting services, but becoming part of the Nevada Residential Services family again. Let's prioritize your home's comfort together.
             </p>
 ```
-# #3: AC Repair Customers Campaign 1-9/10+
+# 3: AC Repair Customers Campaign 1-9/10+
 email
 subject: ```[user-name] Get Ready for Summer with Nevada Residential Services! ```
 
