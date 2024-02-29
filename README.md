@@ -230,7 +230,7 @@ subject: ``` [user-name] Stay Ahead with Regular Maintenance: A Thank You from N
 ```
 <div class="promo2402-1" style="font-size: 15px; font-family: Arial, sans-serif">
     <!--            Maintenance Customers Campaign 1-9/10+-->
-    <a href="https://nrs.vegas/?service=spring-ac-maintenance#reqbooknow-form"><img src="/images/promo/free-tune-up.jpg" style="max-width: 1000px" alt="free-tune-up"></a>
+    <a href="https://nrs.vegas/?service=spring-ac-maintenance#reqbooknow-form"><img src="https://nrs.vegas/images/promo/free-tune-up.jpg" style="max-width: 1000px" alt="free-tune-up"></a>
     <p>Stay Ahead with Regular Maintenance: A Thank You from Nevada Residential Services
     </p>
     <p>Dear Valued Customer,
